@@ -2,7 +2,8 @@
 
 #!/bin/bash
 
-wget https://raw.githubusercontent.com/MilenaValentini/TRM_Dati/main/Nemo_6670.dat
+#wget https://raw.githubusercontent.com/MilenaValentini/TRM_Dati/main/Nemo_6670.dat
+wget https://github.com/ElenaGalovic/Esame/blob/main/Nemo_6670.dat
 if [ $? -eq 0 ]
     then
        echo OK
